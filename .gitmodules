@@ -1,0 +1,6 @@
+[submodule "lib/TrialData"]
+	path = lib/TrialData
+	url = https://github.com/mattperich/TrialData.git
+[submodule "lib/matlab-colors"]
+	path = lib/matlab-colors
+	url = https://github.com/raeedcho/matlab-colors.git
